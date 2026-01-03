@@ -53,12 +53,12 @@ Production-ready REST API for workout management
 
 ---
 
-## 🌱 Currently Exploring
+## 🌱 Currently Learning
 
-- GitHub Actions & CI/CD pipelines
-- Advanced Docker orchestration
-- Cloud architecture patterns
-- Open source contributions
+- Automated testing and deployment workflows
+- Advanced container orchestration
+- Best practices in cloud architecture
+- Contributing to open source projects
 
 ---
 
