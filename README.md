@@ -79,4 +79,4 @@ Production-ready REST API for workout management
 
 ## 🎯 Open to Opportunities
 
-Actively seeking **Junior Backend Developer** or **DevOps Engineer** positions. Open to remote and hybrid opportunities in Germany.
+Actively seeking **Junior Backend Developer** or **DevOps Engineer** positions. Open to remote and hybrid opportunities.
