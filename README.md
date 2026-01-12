@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Yavuz Baris Özgün
 
-## 🚀 Junior Backend Developer | Cloud Enthusiast
+## 🚀 Junior Backend Developer | Cloud Enthusiast | Modern Web Explorer
 
-Backend developer specializing in Python, AWS cloud infrastructure, and DevOps practices. Building scalable APIs and cloud-native applications.
+Backend developer specializing in Python, AWS cloud infrastructure, and DevOps practices. Building scalable APIs while bridging the gap between robust backends and dynamic frontends.
 
 ---
 
@@ -21,6 +21,12 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Frontend Foundations**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 **Tools**
 
@@ -50,15 +56,16 @@ Production-ready REST API for workout management
 - Database Design & Management (PostgreSQL, SQLAlchemy)
 - Docker & Container Orchestration
 - DevOps Fundamentals & CI/CD
+- **Modern JavaScript Fundamentals & DOM Manipulation** (Recent focus)
 
 ---
 
 ## 🌱 Currently Learning
 
-- Automated testing and deployment workflows
-- Advanced container orchestration
-- Best practices in cloud architecture
-- Contributing to open source projects
+- **Frontend Development:** Transitioning from JS Fundamentals to **React** ⚛️
+- **Full-Stack Integration:** Connecting FastAPI backends with modern JS frontends
+- **DevOps:** Advanced container orchestration and CI/CD best practices
+- **Cloud Architecture:** Well-architected framework principles
 
 ---
 
