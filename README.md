@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Yavuz Baris Özgün
+# Hi, I'm Baris 👋
+
+### A passionate Backend Developer exploring Frontend
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer;Python+%26+FastAPI;Cloud+%26+DevOps;Modern+JavaScript" alt="Typing SVG" /></a>
 
 ## 🚀 Junior Backend Developer | Cloud Enthusiast | Modern Web Explorer
 
@@ -39,10 +42,11 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 ## 💼 Featured Projects
 
 ### 🏋️ [Gym Training API](https://github.com/BozgunBer-2506/Team-03-Solo)
-Production-ready REST API for workout management
-- **Stack**: FastAPI, PostgreSQL, Docker, AWS (EC2, RDS, S3)
-- **Features**: Full CRUD, automated S3 backups, Nginx reverse proxy, Swagger docs
-- **Highlights**: Multi-container orchestration, environment-based configuration
+
+🟨 Modern JavaScript fundamentals - Arrays, Objects, Destructuring, ES6 Modules
+- **Concepts**: map(), filter(), find(), Spread Operator, Destructuring
+- **Features**: Higher-order functions, Immutability patterns, ES6 modules
+- **Focus**: Foundation for React development
 
 ---
 
@@ -62,10 +66,9 @@ Production-ready REST API for workout management
 
 ## 🌱 Currently Learning
 
-- **Frontend Development:** Transitioning from JS Fundamentals to **React** ⚛️
+- **Frontend Development:** JavaScript Fundamentals ✅ → **React** ⚛️ (Next)
+- **Modern JS:** Arrays, Objects, DOM, Event Handling, ES6 Modules
 - **Full-Stack Integration:** Connecting FastAPI backends with modern JS frontends
-- **DevOps:** Advanced container orchestration and CI/CD best practices
-- **Cloud Architecture:** Well-architected framework principles
 
 ---
 
