@@ -43,10 +43,19 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ### 🏋️ [Gym Training API](https://github.com/BozgunBer-2506/Team-03-Solo)
 
-🟨 Modern JavaScript fundamentals - Arrays, Objects, Destructuring, ES6 Modules
+**Modern JavaScript fundamentals** - Arrays, Objects, Destructuring, ES6 Modules
 - **Concepts**: map(), filter(), find(), Spread Operator, Destructuring
 - **Features**: Higher-order functions, Immutability patterns, ES6 modules
 - **Focus**: Foundation for React development
+
+- ### 🚀 [Async/Await & Fetch API Practice](https://github.com/BozgunBer-2506/async_await_practice)
+  
+**11 Interactive Exercises** - Complete learning journey from theory to production
+- **Live Demo**: https://async-await-practice.vercel.app/
+- **Concepts**: Fetch API, Promises, Async/Await, Error Handling, Loading States, CORS, API Integration
+- **Tech Stack**: JavaScript (ES6+), HTML5, CSS3, Vercel Deployment
+- **Features**: 11 practice modules, 2 real-world apps (User Directory, Weather App), Professional documentation
+- **Learning Path**: Basic Fetch → Promises → Async/Await → Error Handling → Full-Stack Integration
 
 ---
 
@@ -66,9 +75,10 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 🌱 Currently Learning
 
-- **Frontend Development:** JavaScript Fundamentals ✅ → **React** ⚛️ (Next)
-- **Modern JS:** Arrays, Objects, DOM, Event Handling, ES6 Modules
-- **Full-Stack Integration:** Connecting FastAPI backends with modern JS frontends
+- **Frontend Development:** JavaScript Fundamentals ✅ → **Async/Await & APIs** ✅ → **React** ⚛️ (Next)
+- **Async JavaScript:** Fetch API, Promises, Async/Await, Error Handling, Loading States
+- **Full-Stack Integration:** Connecting FastAPI backends with modern JS frontends ✅
+- **API Development:** REST APIs, Error Handling, CORS, Real-world API Integration
 
 ---
 
