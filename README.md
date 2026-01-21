@@ -1,7 +1,7 @@
 # Hi, I'm Baris 👋
 
 ### A passionate Backend Developer exploring Frontend
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer;Python+%26+FastAPI;Cloud+%26+DevOps;Modern+JavaScript" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer;Python+%26+FastAPI;Cloud+%26+DevOps;Modern+JavaScript;React+Developer" alt="Typing SVG" />
 
 ## 🚀 Junior Backend Developer | Cloud Enthusiast | Modern Web Explorer
 
@@ -25,11 +25,13 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
 
-**Frontend Foundations**
+**Frontend Development**
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 **Tools**
 
@@ -41,14 +43,23 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 💼 Featured Projects
 
-### 🏋️ [Gym Training API](https://github.com/BozgunBer-2506/Team-03-Solo)
+### ⚛️ [React Props Practice](https://github.com/BozgunBer-2506/Komponenten_Props_practice)
 
-**Modern JavaScript fundamentals** - Arrays, Objects, Destructuring, ES6 Modules
+**React Component Composition & Props** - Building reusable UI components
+- **Concepts**: Props, Destructuring, Default Values, Children Props, Component Composition
+- **Components**: 9 reusable components (Greeting, ProductCard, Button, Card, UserProfile, Avatar, Badge, ContactCard, ContactList)
+- **Features**: Object/Array props, List rendering with key, Flexible layouts with children
+- **Focus**: Modern React patterns (React 19) without PropTypes
+- **Tech**: React 18, Vite, CSS3
+
+### 🏋️ [Modern JavaScript Fundamentals](https://github.com/BozgunBer-2506/Team-03-Solo)
+
+**JavaScript ES6+ Deep Dive** - Arrays, Objects, Destructuring, ES6 Modules
 - **Concepts**: map(), filter(), find(), Spread Operator, Destructuring
 - **Features**: Higher-order functions, Immutability patterns, ES6 modules
 - **Focus**: Foundation for React development
 
-- ### 🚀 [Async/Await & Fetch API Practice](https://github.com/BozgunBer-2506/async_await_practice)
+### 🚀 [Async/Await & Fetch API Practice](https://github.com/BozgunBer-2506/async_await_practice)
   
 **11 Interactive Exercises** - Complete learning journey from theory to production
 - **Live Demo**: https://async-await-practice.vercel.app/
@@ -69,15 +80,17 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 - Database Design & Management (PostgreSQL, SQLAlchemy)
 - Docker & Container Orchestration
 - DevOps Fundamentals & CI/CD
-- **Modern JavaScript Fundamentals & DOM Manipulation** (Recent focus)
+- **Modern JavaScript Fundamentals & DOM Manipulation**
+- **Async JavaScript & API Integration**
+- **React Component Development** (Current focus)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Frontend Development:** JavaScript Fundamentals ✅ → **Async/Await & APIs** ✅ → **React** ⚛️ (Next)
-- **Async JavaScript:** Fetch API, Promises, Async/Await, Error Handling, Loading States
-- **Full-Stack Integration:** Connecting FastAPI backends with modern JS frontends ✅
+- **Frontend Development:** JavaScript Fundamentals ✅ → Async/Await & APIs ✅ → **React Props & Components** ✅ → **React State & Events** 🔄 (Next)
+- **React Ecosystem:** Component composition, Props patterns, Modern React 19 practices
+- **Full-Stack Integration:** Connecting FastAPI backends with React frontends
 - **API Development:** REST APIs, Error Handling, CORS, Real-world API Integration
 
 ---
@@ -92,4 +105,4 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 🎯 Open to Opportunities
 
-Actively seeking **Junior Backend Developer** or **DevOps Engineer** positions. Open to remote and hybrid opportunities.
+Actively seeking **Junior Backend Developer** or **Full-Stack Developer** positions. Open to remote and hybrid opportunities.
