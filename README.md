@@ -1,7 +1,7 @@
 # Hi, I'm Baris 👋
 
 ### A passionate Backend Developer exploring Frontend
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer;Python+%26+FastAPI;Cloud+%26+DevOps;Modern+JavaScript;React+Developer" alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&width=435&lines=Backend+Developer;Python+%26+FastAPI;Cloud+%26+DevOps;Modern+JavaScript;React+Developer" alt="Typing SVG" /></a>
 
 ## 🚀 Junior Backend Developer | Cloud Enthusiast | Modern Web Explorer
 
@@ -43,6 +43,15 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 💼 Featured Projects
 
+### ⚛️ [React Lists & Keys Practice](https://github.com/BozgunBer-2506/listen_practice)
+
+**Dynamic List Rendering & State Management** - Product catalog & Interactive todo app
+- **Concepts**: Array map(), Keys, Conditional Rendering, useState Hook, Event Handling, filter(), reduce()
+- **Components**: 8 components (FruitList, ProductList, ProductGrid, ProductCard, Badge, ProductCatalog, TodoList)
+- **Features**: JSON data loading, CSS Grid layouts, Filter/Sort functionality, Dynamic statistics, Responsive design
+- **Projects**: Full product catalog with badges & discounts, Interactive todo app with filters
+- **Tech**: React 18, Vite, CSS3 (Grid, Flexbox, Animations)
+
 ### ⚛️ [React Props Practice](https://github.com/BozgunBer-2506/Komponenten_Props_practice)
 
 **React Component Composition & Props** - Building reusable UI components
@@ -82,14 +91,14 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 - DevOps Fundamentals & CI/CD
 - **Modern JavaScript Fundamentals & DOM Manipulation**
 - **Async JavaScript & API Integration**
-- **React Component Development** (Current focus)
+- **React Component Development** (Props, Lists, Keys, State)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Frontend Development:** JavaScript Fundamentals ✅ → Async/Await & APIs ✅ → **React Props & Components** ✅ → **React State & Events** 🔄 (Next)
-- **React Ecosystem:** Component composition, Props patterns, Modern React 19 practices
+- **Frontend Development:** JavaScript Fundamentals ✅ → Async/Await & APIs ✅ → React Props & Components ✅ → **React Lists & Keys** ✅ → **React State & Events** 🔄 (Current)
+- **React Ecosystem:** Component composition, Props patterns, List rendering with map(), State management, Modern React 19 practices
 - **Full-Stack Integration:** Connecting FastAPI backends with React frontends
 - **API Development:** REST APIs, Error Handling, CORS, Real-world API Integration
 
