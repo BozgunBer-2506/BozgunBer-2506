@@ -43,8 +43,16 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 💼 Featured Projects
 
-### ⚛️ [React Lists & Keys Practice](https://github.com/BozgunBer-2506/listen_practice)
+### ⚛️ [React useEffect & API Calls](https://github.com/BozgunBer-2506/useEffect_API_Calls)
+**React Hooks & Real-World API Integration** - 8-part comprehensive exercise
+- **Live Demo**: https://use-effect-api-calls.vercel.app/
+- **Concepts**: useEffect Hook, Dependency Arrays, Custom Hooks, Loading/Error States, API Integration
+- **Components**: 8 components (UserList, UserPosts, EffectDemo, PostList, UserCard, WeatherDashboard, CitySearch, WeatherDisplay)
+- **Features**: Multi-API integration (JSONPlaceholder, Open-Meteo), Custom useFetch hook, Professional error handling, Real-time city search, Live weather data
+- **Learning Path**: fetch & Promises → async/await → useEffect basics → Dynamic API calls → Dependency arrays → Loading/Error states → Custom hooks → Weather Dashboard
+- **Tech**: React 18, Vite, Open-Meteo API, JSONPlaceholder API
 
+### ⚛️ [React Lists & Keys Practice](https://github.com/BozgunBer-2506/listen_practice)
 **Dynamic List Rendering & State Management** - Product catalog & Interactive todo app
 - **Concepts**: Array map(), Keys, Conditional Rendering, useState Hook, Event Handling, filter(), reduce()
 - **Components**: 8 components (FruitList, ProductList, ProductGrid, ProductCard, Badge, ProductCatalog, TodoList)
@@ -53,7 +61,6 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 - **Tech**: React 18, Vite, CSS3 (Grid, Flexbox, Animations)
 
 ### ⚛️ [React Props Practice](https://github.com/BozgunBer-2506/Komponenten_Props_practice)
-
 **React Component Composition & Props** - Building reusable UI components
 - **Concepts**: Props, Destructuring, Default Values, Children Props, Component Composition
 - **Components**: 9 reusable components (Greeting, ProductCard, Button, Card, UserProfile, Avatar, Badge, ContactCard, ContactList)
@@ -62,14 +69,12 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 - **Tech**: React 18, Vite, CSS3
 
 ### 🏋️ [Modern JavaScript Fundamentals](https://github.com/BozgunBer-2506/Team-03-Solo)
-
 **JavaScript ES6+ Deep Dive** - Arrays, Objects, Destructuring, ES6 Modules
 - **Concepts**: map(), filter(), find(), Spread Operator, Destructuring
 - **Features**: Higher-order functions, Immutability patterns, ES6 modules
 - **Focus**: Foundation for React development
 
 ### 🚀 [Async/Await & Fetch API Practice](https://github.com/BozgunBer-2506/async_await_practice)
-  
 **11 Interactive Exercises** - Complete learning journey from theory to production
 - **Live Demo**: https://async-await-practice.vercel.app/
 - **Concepts**: Fetch API, Promises, Async/Await, Error Handling, Loading States, CORS, API Integration
@@ -92,15 +97,17 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 - **Modern JavaScript Fundamentals & DOM Manipulation**
 - **Async JavaScript & API Integration**
 - **React Component Development** (Props, Lists, Keys, State)
+- **React Hooks & Side Effects** (useState, useEffect, Custom Hooks)
+- **Real-World API Integration** (Multi-API apps, Error handling, Loading states)
 
 ---
 
 ## 🌱 Currently Learning
 
-- **Frontend Development:** JavaScript Fundamentals ✅ → Async/Await & APIs ✅ → React Props & Components ✅ → **React Lists & Keys** ✅ → **React State & Events** 🔄 (Current)
-- **React Ecosystem:** Component composition, Props patterns, List rendering with map(), State management, Modern React 19 practices
-- **Full-Stack Integration:** Connecting FastAPI backends with React frontends
-- **API Development:** REST APIs, Error Handling, CORS, Real-world API Integration
+- **Frontend Development:** JavaScript Fundamentals ✅ → Async/Await & APIs ✅ → React Props & Components ✅ → React Lists & Keys ✅ → **React useEffect & API Calls ✅** → **Advanced React Patterns** 🔄 (Current)
+- **React Ecosystem:** Component composition, Props patterns, List rendering, State management, **useEffect & Side Effects**, **Custom Hooks**, Modern React 19 practices
+- **Full-Stack Integration:** Connecting FastAPI backends with React frontends, **Real-world API integration**
+- **API Development:** REST APIs, Error Handling, CORS, Real-world API Integration, **Multi-API orchestration**
 
 ---
 
