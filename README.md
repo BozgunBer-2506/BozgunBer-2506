@@ -24,6 +24,7 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 **Frontend Development**
 
@@ -43,44 +44,27 @@ Backend developer specializing in Python, AWS cloud infrastructure, and DevOps p
 
 ## 💼 Featured Projects
 
-### ⚛️ [React useEffect & API Calls](https://github.com/BozgunBer-2506/useEffect_API_Calls)
-**React Hooks & Real-World API Integration** - 8-part comprehensive exercise
-- **Live Demo**: https://use-effect-api-calls.vercel.app/
-- **Concepts**: useEffect Hook, Dependency Arrays, Custom Hooks, Loading/Error States, API Integration
-- **Components**: 8 components (UserList, UserPosts, EffectDemo, PostList, UserCard, WeatherDashboard, CitySearch, WeatherDisplay)
-- **Features**: Multi-API integration (JSONPlaceholder, Open-Meteo), Custom useFetch hook, Professional error handling, Real-time city search, Live weather data
-- **Learning Path**: fetch & Promises → async/await → useEffect basics → Dynamic API calls → Dependency arrays → Loading/Error states → Custom hooks → Weather Dashboard
-- **Tech**: React 18, Vite, Open-Meteo API, JSONPlaceholder API
+### 🎯 [React Mini Hub](https://react-recap-mini-hub-0402.vercel.app/)
+**The Central Portfolio** - A centralized hub integrating all my frontend competencies and React modules.
+- **Scope**: Consolidates 25+ different components including `useEffect` optimizations, `Props` patterns, and `Lists & Keys` practices.
+- **Features**: Iframe-based project integration, dynamic module management, and seamless Vercel deployment.
+- **Tech**: React 18, Vite, Vercel.
 
-### ⚛️ [React Lists & Keys Practice](https://github.com/BozgunBer-2506/listen_practice)
-**Dynamic List Rendering & State Management** - Product catalog & Interactive todo app
-- **Concepts**: Array map(), Keys, Conditional Rendering, useState Hook, Event Handling, filter(), reduce()
-- **Components**: 8 components (FruitList, ProductList, ProductGrid, ProductCard, Badge, ProductCatalog, TodoList)
-- **Features**: JSON data loading, CSS Grid layouts, Filter/Sort functionality, Dynamic statistics, Responsive design
-- **Projects**: Full product catalog with badges & discounts, Interactive todo app with filters
-- **Tech**: React 18, Vite, CSS3 (Grid, Flexbox, Animations)
+### 📚 [JavaScript Turkish Guide (The_Bozgun)](https://javascript-rehberi-alpha.vercel.app/)
+**Technical Documentation Platform** - An interactive guide explaining Modern JS (ES6+) concepts with a step-by-step approach.
+- **Features**: Markdown-driven content architecture, PrismJS Syntax Highlighting, and custom UI/UX design.
+- **Impact**: Demonstrates my ability to simplify complex technical topics and create professional documentation.
+- **Tech**: React, Tailwind CSS, Lucide Icons.
 
-### ⚛️ [React Props Practice](https://github.com/BozgunBer-2506/Komponenten_Props_practice)
-**React Component Composition & Props** - Building reusable UI components
-- **Concepts**: Props, Destructuring, Default Values, Children Props, Component Composition
-- **Components**: 9 reusable components (Greeting, ProductCard, Button, Card, UserProfile, Avatar, Badge, ContactCard, ContactList)
-- **Features**: Object/Array props, List rendering with key, Flexible layouts with children
-- **Focus**: Modern React patterns (React 19) without PropTypes
-- **Tech**: React 18, Vite, CSS3
+### 🚀 [Async/Await & Fetch API Engine](https://async-await-practice.vercel.app/)
+**Data Orchestration** - From theory to production-level asynchronous data management.
+- **Scope**: 11 interactive exercises including real-world apps like Weather Dashboard and User Directory.
+- **Focus**: Consuming backend JSON APIs, robust Error Handling, and Loading State management.
+- **Tech**: JavaScript (ES6+), Fetch API, CSS3.
 
 ### 🏋️ [Modern JavaScript Fundamentals](https://github.com/BozgunBer-2506/Team-03-Solo)
-**JavaScript ES6+ Deep Dive** - Arrays, Objects, Destructuring, ES6 Modules
-- **Concepts**: map(), filter(), find(), Spread Operator, Destructuring
-- **Features**: Higher-order functions, Immutability patterns, ES6 modules
-- **Focus**: Foundation for React development
-
-### 🚀 [Async/Await & Fetch API Practice](https://github.com/BozgunBer-2506/async_await_practice)
-**11 Interactive Exercises** - Complete learning journey from theory to production
-- **Live Demo**: https://async-await-practice.vercel.app/
-- **Concepts**: Fetch API, Promises, Async/Await, Error Handling, Loading States, CORS, API Integration
-- **Tech Stack**: JavaScript (ES6+), HTML5, CSS3, Vercel Deployment
-- **Features**: 11 practice modules, 2 real-world apps (User Directory, Weather App), Professional documentation
-- **Learning Path**: Basic Fetch → Promises → Async/Await → Error Handling → Full-Stack Integration
+**Core Logic & Immutability** - Bridging the gap between backend data processing and frontend rendering.
+- **Focus**: Higher-order array methods (map, filter, reduce), Spread Operator, and Destructuring patterns.
 
 ---
 
