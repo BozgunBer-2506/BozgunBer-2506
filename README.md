@@ -48,12 +48,17 @@ I am a Full-Stack developer with a strong focus on **Backend Architecture**, **R
 
 ## 🎯 Featured Engineering Projects
 
-### 🏗️ [Full-Stack API Integration](https://www.google.com/search?q=https://fullstack-mit-react-fast-api-1302.vercel.app/)
+### 🗄️ [FastAPI Order Management System](https://fastapipostgresql1702-production.up.railway.app/docs)
+A production-ready REST API for managing users and orders with full CRUD operations.
+* **Key Features:** Relational database design, Pydantic v2 validation, Alembic migrations, Docker containerization.
+* **Tech:** Python, FastAPI, PostgreSQL, SQLAlchemy, Docker, Railway.
+
+### 🏗️ [Full-Stack API Integration](https://fullstack-mit-react-fast-api-1302.vercel.app/)
 A complete end-to-end application connecting a **FastAPI** backend with a **React** frontend.
 * **Key Features:** PostgreSQL integration, RESTful API consumption, and synchronized state management.
 * **Tech:** Python, FastAPI, PostgreSQL, React.
 
-### 🧠 [State Management Architecture](https://www.google.com/search?q=https://react-context-api-0202.vercel.app/)
+### 🧠 [State Management Architecture](https://react-context-api-0202.vercel.app/)
 Demonstrates advanced React patterns for handling global state using Context API.
 * **Tech:** React Context API, Tailwind CSS.
 
