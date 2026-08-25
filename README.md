@@ -82,22 +82,22 @@ The system is designed around a modular monolith rather than premature microserv
 
 **Engineering highlights:**
 
-* Two-level tenancy: `Organization → Workspace`
-* RBAC enforced across mutating operations
-* Telegram Bot API integration
-* Slack OAuth + Events API
-* Event-driven message ingestion
-* Redis + BullMQ background processing
-* IdentityGraph for cross-provider identity resolution
-* Human-in-the-loop identity confirmation
-* Rule-based automation engine
-* Durable delayed jobs
-* ETag / `If-Match` optimistic concurrency
-* Redis-backed rate limiting
-* Keyset cursor pagination
-* WebSocket real-time updates
-* Production regression testing
-* OAuth credential rotation and incident handling
+- Two-level tenancy: `Organization → Workspace`
+- RBAC enforced across mutating operations
+- Telegram Bot API integration
+- Slack OAuth + Events API
+- Event-driven message ingestion
+- Redis + BullMQ background processing
+- IdentityGraph for cross-provider identity resolution
+- Human-in-the-loop identity confirmation
+- Rule-based automation engine
+- Durable delayed jobs
+- ETag / `If-Match` optimistic concurrency
+- Redis-backed rate limiting
+- Keyset cursor pagination
+- WebSocket real-time updates
+- Production regression testing
+- OAuth credential rotation and incident handling
 
 **Stack:** TypeScript · NestJS · Next.js · PostgreSQL · Prisma · Redis · BullMQ · WebSocket · Docker · Railway
 
@@ -134,16 +134,16 @@ The core principle:
 
 Current engineering areas include:
 
-* Immutable transaction ledger
-* FX-aware P&L
-* Portfolio return calculations
-* Advanced risk metrics
-* Read-only market-data services
-* MCP server architecture
-* PostgreSQL persistence
-* Dockerized integration testing
-* Full regression suite
-* Human-in-the-loop decision support
+- Immutable transaction ledger
+- FX-aware P&L
+- Portfolio return calculations
+- Advanced risk metrics
+- Read-only market-data services
+- MCP server architecture
+- PostgreSQL persistence
+- Dockerized integration testing
+- Full regression suite
+- Human-in-the-loop decision support
 
 **Stack:** TypeScript · PostgreSQL · MCP · Docker · pnpm · Turborepo
 
@@ -169,14 +169,14 @@ Trip
 
 Includes:
 
-* Multi-tenant architecture
-* `SuperAdmin → Admin → Agent` authorization model
-* Unified reservation model
-* Automated invoicing
-* Mutation audit logging
-* PostgreSQL persistence
-* CI/CD through GitHub Actions
-* Docker-based deployment
+- Multi-tenant architecture
+- `SuperAdmin → Admin → Agent` authorization model
+- Unified reservation model
+- Automated invoicing
+- Mutation audit logging
+- PostgreSQL persistence
+- CI/CD through GitHub Actions
+- Docker-based deployment
 
 **Stack:** React · TypeScript · NestJS · TypeORM · PostgreSQL · Docker · Railway · GitHub Actions
 
@@ -216,16 +216,16 @@ A German B2C e-commerce platform built on a **headless Shopware 6** architecture
 
 Engineering work includes:
 
-* Shopware 6 architecture
-* B2C commerce flows
-* PayPal integration
-* DHL / Pickware integration
-* Checkout and payment workflows
-* Customer account flows
-* GDPR-oriented storefront considerations
-* Theme-based Shopware architecture
-* React storefront architecture planning
-* SEO and technical storefront optimization
+- Shopware 6 architecture
+- B2C commerce flows
+- PayPal integration
+- DHL / Pickware integration
+- Checkout and payment workflows
+- Customer account flows
+- GDPR-oriented storefront considerations
+- Theme-based Shopware architecture
+- React storefront architecture planning
+- SEO and technical storefront optimization
 
 **Stack:** Shopware 6 · PHP · Symfony · JavaScript · React · PayPal · DHL / Pickware
 
@@ -235,7 +235,7 @@ Engineering work includes:
 
 **Travel Search API**
 
-[Live](https://travaliz.vercel.app/)
+[Live](https://travaliz.com/)
 
 A Go-based travel search service integrating the Amadeus Self-Service API.
 
@@ -368,12 +368,12 @@ Containerized workloads, CI/CD, networking, deployment and operational reliabili
 
 ## Certifications
 
-* **AWS Certified Cloud Practitioner (CLF-C02)** · Amazon Web Services · 2026
-* **IHK Fachinformatiker, IT-Administrator** · 2026
-* **IHK IT Support Specialist** · 2026
-* **IHK Cloud Business Expert** · 2026
-* **Linux Essentials** · Linux Professional Institute · 2025
-* **Agile Software Development & Cloud Engineering** · Syntax-Institut · 2025/2026
+- **AWS Certified Cloud Practitioner (CLF-C02)** · Amazon Web Services · 2026
+- **IHK Fachinformatiker, IT-Administrator** · 2026
+- **IHK IT Support Specialist** · 2026
+- **IHK Cloud Business Expert** · 2026
+- **Linux Essentials** · Linux Professional Institute · 2025
+- **Agile Software Development & Cloud Engineering** · Syntax-Institut · 2025/2026
 
 ---
 
