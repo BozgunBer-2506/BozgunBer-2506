@@ -16,7 +16,7 @@ I care less about making a demo impressive and more about building systems that 
 
 **Backend · Cloud · E-Commerce · Distributed Systems · Automation**
 
-🌐 [thebozgun.com](https://thebozgun.com) · 💼 [LinkedIn](https://www.linkedin.com/in/the-bozgun/) · 🐙 [GitHub](https://github.com/BozgunBer-2506)
+🌐 [thebozgun.com](https://thebozgun.com) ·  [LinkedIn](https://www.linkedin.com/in/the-bozgun/) ·  [GitHub](https://github.com/BozgunBer-2506)
 
 ---
 
