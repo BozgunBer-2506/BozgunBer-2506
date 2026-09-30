@@ -1,52 +1,26 @@
 ![Y. Barış Özgün: Backend & Cloud Engineer. Backend Systems · Automation · Distributed Systems.](assets/hero.svg)
 
-I build production-oriented backend systems, automation platforms and multi-tenant SaaS applications with a focus on reliability, explicit failure handling and maintainable architecture. My work spans API integrations, event-driven processing, background jobs, OAuth, webhooks, real-time systems and cloud deployment.
+I build production-oriented backend systems, automation platforms and multi-tenant SaaS with a focus on reliability, explicit failure handling and maintainable architecture.
 
-More than 20 years of business and live-operations experience inform how I engineer software: systems should remain predictable for real users when external services fail and real-world constraints enter the picture.
+My background in long-running business operations shapes how I design software for real users, external dependencies and production constraints.
 
 [Website](https://thebozgun.com/) · [LinkedIn](https://www.linkedin.com/in/the-bozgun/) · [GitHub](https://github.com/BozgunBer-2506)
 
 ## Selected Systems
 
-### Smart Message Center
+[![01 / Communication Infrastructure: Smart Message Center. Multi-tenant messaging across Telegram, Slack and email. Production.](assets/smartmc.svg)](https://github.com/BozgunBer-2506/smartmc)
 
-![01 / Communication Infrastructure: Smart Message Center. Multi-tenant messaging across Telegram, Slack and email. Production.](assets/smartmc.svg)
+[Repository ↗](https://github.com/BozgunBer-2506/smartmc)
 
-Multi-tenant communication platform unifying Telegram, Slack and email around a common message model, with automation workflows and cross-provider identity resolution.
+[![02 / Real-Time Market System: EasyArbitHub. Live arbitrage monitoring with fees and slippage in view. Live.](assets/easyarbithub.svg)](https://easyarbithub.com/)
 
-TypeScript · NestJS · PostgreSQL · Redis · BullMQ · OAuth
-
-[Repository](https://github.com/BozgunBer-2506/smartmc) · Production
-
-### EasyArbitHub
-
-![02 / Real-Time Market System: EasyArbitHub. Live arbitrage monitoring with fees and slippage in view. Live.](assets/easyarbithub.svg)
-
-Real-time crypto arbitrage monitoring across exchanges, evaluating opportunities after fees and slippage while processing live market data.
-
-Python · FastAPI · PostgreSQL · WebSockets · AWS
-
-[Live platform](https://easyarbithub.com/) · Live
-
-### Argus
+[Live ↗](https://easyarbithub.com/)
 
 ![03 / Investment Intelligence: Argus. Traceable data. Auditable analysis. Human-controlled decisions. Active development.](assets/argus.svg)
 
-Capital-preservation-first investment intelligence platform built around traceable data, auditability, data integrity and human-controlled decision support.
+[![04 / Multi-Tenant Travel SaaS: B2B Booking Platform. Flights, accommodation, cars and transfers in one trip model. Live.](assets/booking.svg)](https://terrific-respect-production-6ef7.up.railway.app/)
 
-TypeScript · PostgreSQL · MCP · Docker · Turborepo
-
-Active development
-
-### B2B Booking Platform
-
-![04 / Multi-Tenant Travel SaaS: B2B Booking Platform. Flights, accommodation, cars and transfers in one trip model. Live.](assets/booking.svg)
-
-Multi-tenant reservation SaaS for travel agencies using a unified trip model spanning flights, accommodation, cars and transfers.
-
-React · NestJS · TypeORM · PostgreSQL · GitHub Actions
-
-[Live platform](https://terrific-respect-production-6ef7.up.railway.app/) · Live
+[Live ↗](https://terrific-respect-production-6ef7.up.railway.app/)
 
 ## Engineering Profile
 
