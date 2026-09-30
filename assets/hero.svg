@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="280" viewBox="0 0 1280 280" role="img" aria-labelledby="title desc">
+  <title id="title">Y. Barış Özgün — Backend &amp; Cloud Engineer</title>
+  <desc id="desc">Backend Systems · Automation · Distributed Systems</desc>
+  <rect width="1280" height="280" fill="#14171c"/>
+  <rect x="0.5" y="0.5" width="1279" height="279" fill="none" stroke="#30353d"/>
+<path d="M48 45H84" stroke="#729ee8" stroke-width="3"/>
+<text x="100" y="50" fill="#aeb7c5" font-family="Consolas, Liberation Mono, monospace" font-size="13" letter-spacing="1.5">ENGINEERING PORTFOLIO</text>
+<text x="1232" y="50" fill="#8e98a8" font-family="Consolas, Liberation Mono, monospace" font-size="13" text-anchor="end">BOZGUNBER-2506</text>
+<text x="48" y="107" fill="#f0f2f5" font-family="Arial, Helvetica, sans-serif" font-size="29" >Y. Barış Özgün</text>
+<text x="48" y="172" fill="#f0f2f5" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">Backend &amp; Cloud Engineer</text>
+<text x="50" y="215" fill="#b0bac9" font-family="Arial, Helvetica, sans-serif" font-size="20" >Backend Systems · Automation · Distributed Systems</text>
+<path d="M48 250H1232" stroke="#30353d"/>
+</svg>
