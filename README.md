@@ -8,18 +8,15 @@ My background in long-running business operations shapes how I design software f
 
 ## Selected Systems
 
-[![01 / Communication Infrastructure: Smart Message Center. Multi-tenant messaging across Telegram, Slack and email. Production.](assets/smartmc.svg)](https://github.com/BozgunBer-2506/smartmc)
-
+[![01 / Communication Infrastructure: Smart Message Center. Multi-tenant messaging across Telegram, Slack and email. Production.](assets/smartmc.svg)](https://github.com/BozgunBer-2506/smartmc)<br>
 [Repository ↗](https://github.com/BozgunBer-2506/smartmc)
 
-[![02 / Real-Time Market System: EasyArbitHub. Live arbitrage monitoring with fees and slippage in view. Live.](assets/easyarbithub.svg)](https://easyarbithub.com/)
-
+[![02 / Real-Time Market System: EasyArbitHub. Live arbitrage monitoring with fees and slippage in view. Live.](assets/easyarbithub.svg)](https://easyarbithub.com/)<br>
 [Live ↗](https://easyarbithub.com/)
 
 ![03 / Investment Intelligence: Argus. Traceable data. Auditable analysis. Human-controlled decisions. Active development.](assets/argus.svg)
 
-[![04 / Multi-Tenant Travel SaaS: B2B Booking Platform. Flights, accommodation, cars and transfers in one trip model. Live.](assets/booking.svg)](https://terrific-respect-production-6ef7.up.railway.app/)
-
+[![04 / Multi-Tenant Travel SaaS: B2B Booking Platform. Flights, accommodation, cars and transfers in one trip model. Live.](assets/booking.svg)](https://terrific-respect-production-6ef7.up.railway.app/)<br>
 [Live ↗](https://terrific-respect-production-6ef7.up.railway.app/)
 
 ## Engineering Profile
